@@ -13,3 +13,9 @@
 @media(max-width:1000px){.project-directory{grid-template-columns:repeat(2,1fr)}.resume-workspace{gap:28px;grid-template-columns:1fr}.resume-workspace .resume-preview{position:static}.resume-preview .document-placeholder{min-height:420px}.reflection-grid{gap:20px}.reflection-grid>.section{padding:24px}}
 @media(max-width:760px){.project-directory{gap:12px;margin-bottom:38px}.project-directory a{padding:20px;min-height:200px}.project-directory strong{font-size:17px}.directory-number{margin-bottom:20px}body[data-page='experience'] .timeline-entry{margin-left:8px;padding:12px 0 32px 25px}.resume-summary{padding:24px}.reflection-grid{grid-template-columns:1fr}.reflection-grid h2{min-height:0}.reflection-grid .document-placeholder{min-height:340px}}
 @media(max-width:380px){.project-directory{grid-template-columns:1fr}.project-directory a{min-height:160px}}
+
+.project-intro .client-logo{background:#fff}.project-intro .client-logo img{object-fit:contain;padding:24px;background:#fff}.client-logo:before,.client-logo:after{display:none}
+
+.project-intro .processor-diagram{background:#fff}.project-intro .processor-diagram img{object-fit:cover}.processor-diagram:before,.processor-diagram:after{display:none}
+
+.project-intro .vent-image{background:#fff}.project-intro .vent-image img{object-fit:contain}.vent-image:before,.vent-image:after{display:none}
