@@ -2,7 +2,7 @@
 document.documentElement.classList.add('js');
 const menu = document.querySelector('.menu-toggle');
 const nav = document.querySelector('#navigation');
-const mobile = window.matchMedia('(max-width: 700px)');
+const mobile = window.matchMedia('(max-width: 800px)');
 function closeMenu() {
   nav.classList.remove('is-open');
   menu.setAttribute('aria-expanded', 'false');

@@ -78,4 +78,4 @@ After replacing assets or text, recheck at desktop and mobile widths and at 200%
 
 Implementation checks: all seven pages were inspected in the local browser at 1440px, 390px, and 320px. Each had one main heading, one active-page marker, no horizontal overflow, no broken image elements, and no download links for missing PDFs. Keyboard Space opened the mobile menu. All local navigation links resolve. Escape behavior is implemented but the final live check was interrupted by the browser session closing. Existing-PDF rendering should be rechecked when actual PDFs are added.
 
-Visual direction updated to a dark, cinematic layout inspired by the supplied reference: rounded translucent navigation, portrait area, generous media frames, and large dedicated PDF preview placeholders. Add your actual portrait to activate the photo frame.
+Visual direction follows the supplied nikhil-kumar-gilt.vercel.app reference: near-black grid background, lime accents, Manrope typography, DM Mono labels, a code-window hero, square project cards, and restrained document layouts. All seven pages share the same theme. The mobile navigation breakpoint is 800px.
